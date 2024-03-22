@@ -1,2 +1,2 @@
-# fine-tuning-in-yi9b
-在yi-9b的Lora微调测试结果
+# 后面会持续更新一下开源大模型各种训练报告
+1.yi-9b的Lora微调测试结果
