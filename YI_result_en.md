@@ -1,7 +1,7 @@
 ## Training and Testing Environment
 
 - **Framework**：LLama_factory
-- **Dataset**：10k training data, 1k testing data
+- **Dataset**：100k training data, 1k testing data
 - **Training Environment**：8 * NVIDIA A100-SXM4-80GB
 
 ### Training Time
