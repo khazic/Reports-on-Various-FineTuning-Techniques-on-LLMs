@@ -6,10 +6,10 @@
 
 ### Training Time
 
-- **Lora**: 约 8 小时
-- **PlusLora**: 约 8 小时
-- **RsLora**: 约 8 小时
-- **Dora**: 约 18 小时
+- **Lora**: About 8 小时
+- **PlusLora**: About 8 小时
+- **RsLora**: About 8 小时
+- **Dora**: About 18 小时
 
 
 ## Example Training Commands
